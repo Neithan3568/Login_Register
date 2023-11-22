@@ -1,0 +1,40 @@
+.wrapper {
+    height: 100vh;
+  }
+  
+  .login {
+    width: 300px;
+    padding: 20px;
+    height: min-content;
+    border-radius: 5px;
+    color: white;
+    background-color: #3498db;
+    text-align: center; /* Center text */
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-label {
+    color: white;
+  }
+  
+  .form-control {
+    border-radius: 5px;
+  }
+  
+  .invalid-feedback {
+    color: #ff5454;
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  
+  .btn {
+    background-color: #28a745;
+  }
+  
+  .btn:hover {
+    background-color: #218838;
+  }
+  
